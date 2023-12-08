@@ -1,1 +1,1 @@
-# selenium-web-scraping-app
+# Selenium web scraping app
